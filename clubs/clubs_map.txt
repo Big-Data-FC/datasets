@@ -768,3 +768,127 @@ KON:Konyaspor
 SIV:Sivasspor
 TRA:Trabzonspor
 YMA:Yeni Malatyaspor
+AAC:Aachen
+ADO:Ado Den Haag
+AJC:AC Ajaccio
+AMI:Amiens
+Ancona:Ancona
+ASC:Ascoli
+ASNL:AS Nancy Lorraine
+ASSE:AS Saint-Étienne
+ATA:Atalanta
+ATH:Athletic Club
+AUX:AJ Auxerre
+AVL:Aston Villa
+AZ:AZ Alkmaar
+BEN:Benevento
+BHA:Brighton & Hove Albion
+BIR:Birmingham City
+BLP:Blackpool
+BRES:Stade Brestois 29
+CAD:Cadiz
+CAR:Cardiff City
+CAR:Carpi
+CAT:Catania
+CES:Cesena
+CLER:Clermont Foot 63
+COMO:Como
+COR:Deportivo La Coruña
+CRO:Crotone
+DBO:Den Bosch
+DER:Derby County
+DIJO:Dijon FCO
+DRM:SV Darmstadt 98
+DSC:Deutscher Sportclub Arminia Bielefeld
+EAG:En Avant de Guingamp
+EBS:Eintracht Braunschweig
+EIB:SD Eibar
+ESP:RCD Espanyol
+EVN:Evian Thonon Gaillard
+EXC:Excelsior
+FCK:1. FC Kaiserslautern
+FREI:SC Freiburg
+FRO:Frosinone
+FUR:SpVgg Greuther Fürth
+GFC:GFC Ajaccio
+GIR:Girona FC
+GRE:Grenoble
+HER:Heracles Almelo 
+HERT:Hertha BSC
+HOF:TSG 1899 Hoffenheim
+HUD:Huddersfield Town
+HUE:Huesca
+ING:FC Ingolstadt 04
+LEC:Lecce
+LEG:CD Leganés
+LEV:Bayer 04 Leverkusen
+LEV:Levante UD
+LILL:LOSC Lille
+LPA:UD Las Palmas
+LVO:Livorno
+LYON:Olympique Lyonnais
+MAIN:1. FSV Mainz 05
+MAR:Olympique de Marseille
+MCF:Málaga CF
+Messina:Messina
+METZ:FC Metz
+MNS:Le Mans
+MOD:Modena
+MONT:Montpellier HSC
+NAC:NAC Breda
+NANT:FC Nantes
+NICE:OGC Nice
+NIM:Nimes
+NOV:Novara
+NUM:CD Numancia
+OVI:Real Oviedo
+PAD:SC Paderborn 07 
+PAR:Parma
+PER:Perugia
+PES:Pescara
+PIA:Piacenza
+RCL:Racing Club de Lens
+REG:Reggina
+REIM:Stade de Reims
+RJC:Roda JC
+RKC:RKC Waalwijk
+ROMA:AS Roma
+Roosendaal:Roosendaal
+RSG:Real Sporting Gijón
+RSO:Real Sociedad
+SCHA:FC Schalke 04
+SED:Sedan
+SNA:Siena
+SPA:Sparta Rotterdam
+SPAL:SPAL
+SPE:Spezia
+STP:FC St. Pauli
+STRA:Strasbourg
+TOUL:Toulouse Football Club
+Treviso:Treviso
+TRY:Troyes
+UDN:Udinese
+Unterhaching:Unterhaching
+VAFC:Valenciennes FC
+VALL:Real Valladolid FC
+Venezia:Venezia
+VEN:Venezia
+VER:Verona
+VFB:VfB Stuttgart
+VIC:Vicenza
+VVV:VVV Venlo
+WER:SV Werder Bremen
+WGA:Wigan Athletic
+ZAR:Real Zaragoza
+MAN:Manchester United
+MNC:Manchester City
+CVO:Chievo Verona
+EMM:Emmen
+COT:Energie Cottbus
+CAN:Stade Malherbe Caen
+REA:Reading
+DUI:Duisburg
+XER:Xerez
+ALB:Albacete
+TEN:Tenerife
+VOL:Volendam
