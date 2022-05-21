@@ -169,7 +169,6 @@ ARJ:Argentinos Juniors
 ARL:Arsenal
 ATU:Atletico Tucuman
 BAN:Banfield
-BAR:Barracas Central
 BOJ:Boca Juniors
 CEN:Central Cordoba
 COO:Colon
@@ -247,10 +246,11 @@ AJA:Ajax Amsterdam
 ATT:Atalanta
 ATM:Atletico Madrid
 FCB:Barcelona
-BAY:Bayern Munich
+MUN:Bayern Munich
 SLB:Benfica
 BES:Besiktas
 DOR:Borussia Dortmund
+DOR_NL:FC Dordrecht
 CHE:Chelsea
 BRU:Club Brugge
 DYK:Dynamo Kyiv
@@ -262,7 +262,7 @@ LIL:Lille
 LIV:Liverpool
 MAL:Malmo FF
 MCI:Manchester City
-MUN:Manchester United
+MAN:Manchester United
 PSG:Paris St Germain
 RBL:RB Leipzig
 MAD:Real Madrid
@@ -323,12 +323,12 @@ SPR:Sparta Rotterdam
 VIT:Vitesse Arnhem
 WIL:Willem II
 BOU:AFC Bournemouth
+BOU_FR:Boulougne
 BRS:Barnsley
 BRC:Birmingham City
 BBR:Blackburn Rovers
 BLK:Blackpool
 BSC:Bristol City
-CDF:Cardiff City
 CVC:Coventry City
 DRB:Derby County
 FUL:Fulham
@@ -348,7 +348,7 @@ SWA:Swansea City
 WBA:West Bromwich Albion
 ACC:Accrington Stanley
 AWM:AFC Wimbledon
-BOL:Bolton Wanderers
+BOL_GB:Bolton Wanderers
 BRA:Burton Albion
 CMU:Cambridge United
 CHA:Charlton Athletic
@@ -419,7 +419,7 @@ WXH:Wrexham
 YEO:Yeovil Town
 ARS:Arsenal
 AVA:Aston Villa
-BRE:Brentford
+BRE_GB:Brentford
 BRH:Brighton & Hove Albion
 BUR:Burnley
 CHE:Chelsea
@@ -429,7 +429,6 @@ LEE:Leeds United
 LEI:Leicester City
 LIV:Liverpool
 MCI:Manchester City
-MUN:Manchester United
 NEW:Newcastle United
 NOR:Norwich City
 SOU:Southampton
@@ -469,7 +468,6 @@ TOT:Tottenham Hotspur
 UNB:Union Berlin
 VIT:Vitesse Arnhem
 ZLH:Zorya Luhansk
-B04:Bayer Leverkusen
 BIF:Brondby
 CEL:Celtic
 DZA:Dinamo Zagreb
@@ -522,10 +520,9 @@ STE:Saint-Etienne
 STR:Strasbourg
 TRO:Troyes
 BIE:Arminia Bielefeld
-B04:Bayer Leverkusen
 BAY:Bayern Munich
 DOR:Borussia Dortmund
-BMG:Borussia Moenchengladbach
+BOM:Borussia Mönchengladbach
 CGN:Cologne
 SGE:Eintracht Frankfurt
 AUG:FC Augsburg
@@ -542,7 +539,7 @@ WOB:VfL Wolfsburg
 DAR:Darmstadt 98
 DRE:Dynamo Dresden
 AUE:Erzgebirge Aue
-DUS:Fortuna Duesseldorf
+DUS:Fortuna Düsseldorf
 HSV:Hamburg SV
 HAN:Hanover 96
 HRO:Hansa Rostock
@@ -574,7 +571,7 @@ VLO:Volos
 MIL:AC Milan
 ROM:AS Roma
 ATT:Atalanta
-BGN:Bologna
+BOL:Bologna
 CAG:Cagliari
 EMP:Empoli
 FIO:Fiorentina
@@ -706,13 +703,11 @@ ESY: Espanyol
 ALV:Alaves
 ATB:Athletic Bilbao
 ATM:Atletico Madrid
-FCB:Barcelona
 CCF:Cadiz
 CLV:Celta Vigo
 ELC:Elche
 GET:Getafe
 GCF:Granada
-LVT:Levante
 OSA:Osasuna
 RAY:Rayo Vallecano
 BET:Real Betis
@@ -787,7 +782,7 @@ BIR:Birmingham City
 BLP:Blackpool
 BRES:Stade Brestois 29
 CAD:Cadiz
-CAR:Cardiff City
+CAR_GB:Cardiff City
 CAR:Carpi
 CAT:Catania
 CES:Cesena
@@ -880,7 +875,6 @@ VVV:VVV Venlo
 WER:SV Werder Bremen
 WGA:Wigan Athletic
 ZAR:Real Zaragoza
-MAN:Manchester United
 MNC:Manchester City
 CVO:Chievo Verona
 EMM:Emmen
@@ -892,3 +886,6 @@ XER:Xerez
 ALB:Albacete
 TEN:Tenerife
 VOL:Volendam
+HER_ESP:Hércules CF
+BAR:Bari
+BRE:Brescia
