@@ -821,7 +821,7 @@ HUE:Huesca
 ING:FC Ingolstadt 04
 LEC:Lecce
 LEG:CD Leganés
-LEV:Bayer 04 Leverkusen
+BLE:Bayer 04 Leverkusen
 LEV:Levante UD
 LILL:LOSC Lille
 LPA:UD Las Palmas
